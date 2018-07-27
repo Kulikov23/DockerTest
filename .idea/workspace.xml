@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7bc4fbcb-8d43-49c6-94a3-f3c9dcbc1cbe" name="Default Changelist" comment="" />
+    <list default="true" id="7bc4fbcb-8d43-49c6-94a3-f3c9dcbc1cbe" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,7 +31,7 @@
           <entry key="fetaure" value="2" />
           <entry key="java" value="16" />
           <entry key="properties" value="3" />
-          <entry key="xml" value="3" />
+          <entry key="xml" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -37,7 +40,7 @@
           <entry key="Cucumber" value="3" />
           <entry key="JAVA" value="16" />
           <entry key="Properties" value="3" />
-          <entry key="XML" value="3" />
+          <entry key="XML" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -46,7 +49,7 @@
           <entry key="fetaure" value="444" />
           <entry key="java" value="1042" />
           <entry key="properties" value="6" />
-          <entry key="xml" value="4" />
+          <entry key="xml" value="39" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -54,7 +57,7 @@
           <entry key="Cucumber" value="448" />
           <entry key="JAVA" value="1042" />
           <entry key="Properties" value="6" />
-          <entry key="XML" value="4" />
+          <entry key="XML" value="39" />
         </counts>
       </usages-collector>
     </session>
@@ -70,11 +73,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/resources/GooleSearch.fetaure">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
               <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="75" column="49" selection-start-line="75" selection-start-column="28" selection-end-line="75" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -140,13 +152,15 @@
       <find>@RunWith(Cucumber.class)</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/test/java/dockerTest/DictionaryPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/dockerTest/steps/DictionaryPage.java" />
         <option value="$PROJECT_DIR$/src/test/resources/LookupADefinition.feature" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/dockerTest/pages/GooglePage.java" />
         <option value="$PROJECT_DIR$/src/test/java/dockerTest/steps/DefinitionSteps.java" />
         <option value="$PROJECT_DIR$/src/test/java/dockerTest/steps/serenity/EndUserSteps.java" />
@@ -155,6 +169,7 @@
         <option value="$PROJECT_DIR$/src/test/java/dockerTest/DefinitionTestSuite.java" />
         <option value="$PROJECT_DIR$/src/test/java/dockerTest/pages/TestSite.java" />
         <option value="$PROJECT_DIR$/serenity.properties" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -177,6 +192,7 @@
     <option name="width" value="1400" />
     <option name="height" value="1028" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -271,7 +287,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1532679931103" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1532685258695" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../shopfinder_tests" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -356,7 +372,7 @@
       <updated>1532589907246</updated>
       <workItem from="1532589908775" duration="998000" />
       <workItem from="1532590929442" duration="7170000" />
-      <workItem from="1532672571409" duration="873000" />
+      <workItem from="1532672571409" duration="2609000" />
     </task>
     <servers />
   </component>
@@ -393,7 +409,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9041000" />
+    <option name="totallyTimeSpent" value="10777000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -408,26 +424,27 @@
     <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49840257" visible="true" weight="0.25538972" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49840257" visible="true" weight="0.25538972" />
       <window_info id="Structure" order="1" sideWeight="0.50159746" side_tool="true" weight="0.25262576" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Java Enterprise" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3290461" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3290461" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39978564" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3290461" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3290461" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.33942" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3290461" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -456,9 +473,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/dockerTest/pages/DictionaryPage.java" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/dockerTest/pages/GooglePage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -538,6 +552,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="75" column="49" selection-start-line="75" selection-start-column="28" selection-end-line="75" selection-end-column="49" />
         </state>
       </provider>
     </entry>
