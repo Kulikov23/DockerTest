@@ -1,0 +1,16 @@
+Feature: GoogleSearch
+
+  Scenario: Open Google and search for site
+    Given open Google search page
+    When write "Habr" into search input
+    When Click on the search button
+    Then Check that "Habr - Хабр" appeared in site list
+
+  Scenario: Open Google and search for site
+    When click n the "Habr - Хабр" link that appeared in site list
+    Then Check that site logo appeared
+    When Click on the HABR search button
+    When Write "docker тестирование" into HABR search field and press ENTER
+    Then Check that "Docker: Окружение для тестирования" post is visible
+    When Click on the "Docker: Окружение для тестирования" post title
+    Then Check that "Docker: Окружение для тестирования" post is opened
