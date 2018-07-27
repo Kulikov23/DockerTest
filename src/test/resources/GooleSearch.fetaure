@@ -6,7 +6,7 @@ Feature: GoogleSearch
     When Click on the search button
     Then Check that "Habr - Хабр" appeared in site list
 
-  Scenario: Open Google and search for site
+  Scenario: Do some operations on the site
     When click n the "Habr - Хабр" link that appeared in site list
     Then Check that site logo appeared
     When Click on the HABR search button
