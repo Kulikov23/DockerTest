@@ -7,6 +7,9 @@ Feature: GoogleSearch
     Then Check that "Habr - Хабр" appeared in site list
 
   Scenario: Do some operations on the site
+    Given open Google search page
+    When write "Habr" into search input
+    When Click on the search button
     When click n the "Habr - Хабр" link that appeared in site list
     Then Check that site logo appeared
     When Click on the HABR search button
