@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7bc4fbcb-8d43-49c6-94a3-f3c9dcbc1cbe" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenkinsfileSelenoidPipeline.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/JenkinsfileSelenoidPipeline.groovy" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/browsers/browsers.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/browsers/cm" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/serenity.properties" beforeDir="false" afterPath="$PROJECT_DIR$/serenity.properties" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -61,7 +57,7 @@
           <entry key="fetaure" value="479" />
           <entry key="groovy" value="33" />
           <entry key="java" value="1042" />
-          <entry key="properties" value="30" />
+          <entry key="properties" value="243" />
           <entry key="txt" value="124" />
           <entry key="xml" value="39" />
         </counts>
@@ -72,7 +68,7 @@
           <entry key="Groovy" value="33" />
           <entry key="JAVA" value="1042" />
           <entry key="PLAIN_TEXT" value="124" />
-          <entry key="Properties" value="30" />
+          <entry key="Properties" value="243" />
           <entry key="XML" value="39" />
         </counts>
       </usages-collector>
@@ -92,8 +88,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/serenity.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+            <state relative-caret-position="248">
+              <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -283,6 +279,11 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="dockerTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dockerTest" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -295,7 +296,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1532950850574" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533037397163" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../shopfinder_tests" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -384,7 +385,7 @@
       <workItem from="1532694425605" duration="6197000" />
       <workItem from="1532932949798" duration="8307000" />
       <workItem from="1533020875072" duration="1363000" />
-      <workItem from="1533030842301" duration="1238000" />
+      <workItem from="1533030842301" duration="2107000" />
     </task>
     <task id="LOCAL-00001" summary="Changed pom">
       <created>1532685273580</created>
@@ -477,31 +478,17 @@
       <option name="project" value="LOCAL" />
       <updated>1532946971677</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Small changes">
+      <created>1533036435803</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1533036435803</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Feature__GooleSearch - 2018.07.27 at 12h 57m 19s.xml">
-      <configuration name="Feature: GooleSearch" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Feature__GooleSearch - 2018.07.27 at 14h 03m 57s.xml">
-      <configuration name="Feature: GooleSearch" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Feature__GooleSearch - 2018.07.27 at 14h 06m 24s.xml">
-      <configuration name="Feature: GooleSearch" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Feature__GooleSearch - 2018.07.27 at 16h 25m 01s.xml">
-      <configuration name="Feature: GooleSearch" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Feature__GooleSearch - 2018.07.27 at 16h 25m 38s.xml">
-      <configuration name="Feature: GooleSearch" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Feature__GooleSearch - 2018.07.27 at 17h 19m 43s.xml">
-      <configuration name="Feature: GooleSearch" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Feature__GooleSearch - 2018.07.27 at 17h 24m 28s.xml">
-      <configuration name="Feature: GooleSearch" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
     <history-entry file="Feature__GooleSearch - 2018.07.27 at 17h 26m 11s.xml">
       <configuration name="Feature: GooleSearch" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
@@ -511,9 +498,30 @@
     <history-entry file="Feature__GooleSearch - 2018.07.30 at 10h 10m 25s.xml">
       <configuration name="Feature: GooleSearch" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
+    <history-entry file="Feature__GooleSearch - 2018.07.31 at 14h 30m 34s.xml">
+      <configuration name="Feature: GooleSearch" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Feature__GooleSearch - 2018.07.31 at 14h 31m 21s.xml">
+      <configuration name="Feature: GooleSearch" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Feature__GooleSearch - 2018.07.31 at 14h 31m 58s.xml">
+      <configuration name="Feature: GooleSearch" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Feature__GooleSearch - 2018.07.31 at 14h 32m 41s.xml">
+      <configuration name="Feature: GooleSearch" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Feature__GooleSearch - 2018.07.31 at 14h 35m 07s.xml">
+      <configuration name="Feature: GooleSearch" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Feature__GooleSearch - 2018.07.31 at 14h 38m 51s.xml">
+      <configuration name="Feature: GooleSearch" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Feature__GooleSearch - 2018.07.31 at 14h 39m 34s.xml">
+      <configuration name="Feature: GooleSearch" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30343000" />
+    <option name="totallyTimeSpent" value="31212000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -526,9 +534,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49840257" visible="true" weight="0.17357656" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49840257" visible="true" weight="0.17357656" />
       <window_info id="Structure" order="1" sideWeight="0.50159746" side_tool="true" weight="0.25262576" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -537,7 +544,7 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.41245973" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.41245973" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39978564" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -636,13 +643,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/GooleSearch.fetaure">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JenkinsfilePipline.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -671,10 +671,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/GooleSearch.fetaure">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/serenity.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+        <state relative-caret-position="248">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
         </state>
       </provider>
     </entry>
