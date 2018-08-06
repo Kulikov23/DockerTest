@@ -1,7 +1,7 @@
 def browsers
 def get_versions_sh = 'shell/get_versions.sh'
 def pull_images_sh = 'shell/pull_images.sh'
-def browsers_conf_folder = 'browsers/'
+def browsers_conf_folder = 'browsers/browsers.json'
 
 node {
     stage 'Checkout'
