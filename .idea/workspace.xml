@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7bc4fbcb-8d43-49c6-94a3-f3c9dcbc1cbe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/Capabilities/FirefoxCapabilities.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/serenity.properties" beforeDir="false" afterPath="$PROJECT_DIR$/serenity.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" afterDir="false" />
@@ -18,28 +19,30 @@
     <session id="258224759">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
+          <entry key="project.closed" value="12" />
           <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.31" value="1" />
           <entry key="project.open.time.32" value="1" />
-          <entry key="project.open.time.33" value="1" />
-          <entry key="project.open.time.35" value="2" />
+          <entry key="project.open.time.33" value="2" />
+          <entry key="project.open.time.35" value="3" />
+          <entry key="project.open.time.39" value="1" />
           <entry key="project.open.time.40" value="1" />
           <entry key="project.open.time.46" value="1" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="12" />
+          <entry key="project.opened" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="Jenkinsfile" value="1" />
-          <entry key="class" value="1" />
+          <entry key="class" value="13" />
           <entry key="feature" value="1" />
-          <entry key="fetaure" value="2" />
+          <entry key="fetaure" value="3" />
           <entry key="groovy" value="1" />
-          <entry key="java" value="17" />
+          <entry key="java" value="25" />
           <entry key="properties" value="4" />
           <entry key="sh" value="2" />
           <entry key="xml" value="4" />
@@ -48,11 +51,11 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Bash" value="2" />
-          <entry key="CLASS" value="1" />
-          <entry key="Cucumber" value="3" />
+          <entry key="CLASS" value="13" />
+          <entry key="Cucumber" value="4" />
           <entry key="GSP" value="1" />
           <entry key="Groovy" value="1" />
-          <entry key="JAVA" value="17" />
+          <entry key="JAVA" value="25" />
           <entry key="Properties" value="4" />
           <entry key="XML" value="4" />
         </counts>
@@ -62,8 +65,8 @@
           <entry key="feature" value="4" />
           <entry key="fetaure" value="479" />
           <entry key="groovy" value="33" />
-          <entry key="java" value="1042" />
-          <entry key="properties" value="486" />
+          <entry key="java" value="1141" />
+          <entry key="properties" value="536" />
           <entry key="txt" value="124" />
           <entry key="xml" value="39" />
         </counts>
@@ -72,9 +75,9 @@
         <counts>
           <entry key="Cucumber" value="483" />
           <entry key="Groovy" value="33" />
-          <entry key="JAVA" value="1042" />
+          <entry key="JAVA" value="1141" />
           <entry key="PLAIN_TEXT" value="124" />
-          <entry key="Properties" value="486" />
+          <entry key="Properties" value="536" />
           <entry key="XML" value="39" />
         </counts>
       </usages-collector>
@@ -83,6 +86,15 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/dockerTest/pages/TestSite.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="32" column="41" selection-start-line="32" selection-end-line="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/resources/GooleSearch.fetaure">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
@@ -91,47 +103,32 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/serenity.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="316">
-              <caret line="36" selection-start-line="36" selection-end-line="36" />
+            <state relative-caret-position="418">
+              <caret line="69" column="6" selection-start-line="69" selection-start-column="6" selection-end-line="69" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JenkinsfileSelenoidPipeline.groovy">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Capabilities/FirefoxCapabilities.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1207">
-              <caret line="71" column="49" selection-start-line="71" selection-start-column="39" selection-end-line="71" selection-end-column="49" />
+            <state relative-caret-position="257">
+              <caret line="28" column="61" selection-start-line="28" selection-start-column="61" selection-end-line="28" selection-end-column="61" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JenkinsfilePipline.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="52" selection-start-line="9" selection-start-column="12" selection-end-line="11" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shell/get_versions.sh">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shell/pull_images.sh">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-firefox-driver/3.13.0/selenium-firefox-driver-3.13.0.jar!/org/openqa/selenium/firefox/GeckoDriverService.class">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
-              <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+              <caret line="11" column="65" selection-start-line="11" selection-start-column="65" selection-end-line="11" selection-end-column="65" />
             </state>
           </provider>
         </entry>
@@ -149,6 +146,9 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>@RunWith(Cucumber.class)</find>
+      <find>ResolvingPhantomJSDriverService</find>
+      <find>Service</find>
+      <find>createDefaultService</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -174,7 +174,9 @@
         <option value="$PROJECT_DIR$/JenkinsfilePipline.groovy" />
         <option value="$PROJECT_DIR$/src/test/resources/GooleSearch.fetaure" />
         <option value="$PROJECT_DIR$/JenkinsfileSelenoidPipeline.groovy" />
+        <option value="$PROJECT_DIR$/src/test/java/Capabilities/Sasd.java" />
         <option value="$PROJECT_DIR$/serenity.properties" />
+        <option value="$PROJECT_DIR$/src/test/java/Capabilities/FirefoxCapabilities.java" />
       </list>
     </option>
   </component>
@@ -192,8 +194,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="292" />
-    <option name="y" value="24" />
+    <option name="x" value="311" />
+    <option name="y" value="-4" />
     <option name="width" value="1400" />
     <option name="height" value="1028" />
   </component>
@@ -204,8 +206,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -242,7 +242,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="dockerTest" type="462c0819:PsiDirectoryNode" />
+              <item name="Capabilities" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="dockerTest" type="b2602c69:ProjectViewProjectNode" />
@@ -251,7 +251,6 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="dockerTest" type="462c0819:PsiDirectoryNode" />
-              <item name="locators" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="dockerTest" type="b2602c69:ProjectViewProjectNode" />
@@ -267,25 +266,6 @@
               <item name="dockerTest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="dockerTest" type="462c0819:PsiDirectoryNode" />
-              <item name="steps" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dockerTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dockerTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="dockerTest" type="462c0819:PsiDirectoryNode" />
-              <item name="steps" type="462c0819:PsiDirectoryNode" />
-              <item name="serenity" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dockerTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dockerTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -293,16 +273,99 @@
               <item name="dockerTest" type="462c0819:PsiDirectoryNode" />
               <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="dockerTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="dockerTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.codeborne:phantomjsdriver:1.4.4" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="dockerTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.codeborne:phantomjsdriver:1.4.4" type="70bed36:NamedLibraryElementNode" />
+              <item name="phantomjsdriver-1.4.4.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dockerTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.codeborne:phantomjsdriver:1.4.4" type="70bed36:NamedLibraryElementNode" />
+              <item name="phantomjsdriver-1.4.4.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="phantomjs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dockerTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: net.serenity-bdd:serenity-core:1.9.31" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="dockerTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: net.serenity-bdd:serenity-core:1.9.31" type="70bed36:NamedLibraryElementNode" />
+              <item name="serenity-core-1.9.31.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dockerTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: net.serenity-bdd:serenity-core:1.9.31" type="70bed36:NamedLibraryElementNode" />
+              <item name="serenity-core-1.9.31.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="firefox" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dockerTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: net.serenity-bdd:serenity-core:1.9.31" type="70bed36:NamedLibraryElementNode" />
+              <item name="serenity-core-1.9.31.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="specs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dockerTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.seleniumhq.selenium:selenium-firefox-driver:3.13.0" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="dockerTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.seleniumhq.selenium:selenium-firefox-driver:3.13.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="selenium-firefox-driver-3.13.0.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dockerTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.seleniumhq.selenium:selenium-firefox-driver:3.13.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="selenium-firefox-driver-3.13.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="firefox" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dockerTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.seleniumhq.selenium:selenium-firefox-driver:3.13.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="selenium-firefox-driver-3.13.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="firefox" type="462c0819:PsiDirectoryNode" />
+              <item name="internal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dockerTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.seleniumhq.selenium:selenium-firefox-driver:3.13.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="selenium-firefox-driver-3.13.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="firefox" type="462c0819:PsiDirectoryNode" />
+              <item name="x86" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533135796291" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533558425975" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../shopfinder_tests" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -396,7 +459,11 @@
       <workItem from="1533042263753" duration="1290000" />
       <workItem from="1533104216594" duration="599000" />
       <workItem from="1533112676838" duration="656000" />
-      <workItem from="1533120333702" duration="3274000" />
+      <workItem from="1533120333702" duration="3324000" />
+      <workItem from="1533191332335" duration="9678000" />
+      <workItem from="1533283099360" duration="657000" />
+      <workItem from="1533538312195" duration="599000" />
+      <workItem from="1533554175997" duration="2715000" />
     </task>
     <task id="LOCAL-00001" summary="Changed pom">
       <created>1532685273580</created>
@@ -510,43 +577,50 @@
       <option name="project" value="LOCAL" />
       <updated>1533037457850</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Small changes">
+      <created>1533135806168</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1533135806168</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Feature__GooleSearch - 2018.07.31 at 15h 28m 41s.xml">
+    <history-entry file="Feature__GooleSearch - 2018.08.02 at 15h 23m 47s.xml">
       <configuration name="Feature: GooleSearch" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Feature__GooleSearch - 2018.07.31 at 15h 30m 33s.xml">
+    <history-entry file="Feature__GooleSearch - 2018.08.02 at 15h 31m 07s.xml">
       <configuration name="Feature: GooleSearch" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Feature__GooleSearch - 2018.07.31 at 16h 15m 54s.xml">
+    <history-entry file="Feature__GooleSearch - 2018.08.02 at 16h 54m 51s.xml">
       <configuration name="Feature: GooleSearch" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Feature__GooleSearch - 2018.08.01 at 13h 51m 32s.xml">
+    <history-entry file="Feature__GooleSearch - 2018.08.06 at 14h 42m 52s.xml">
       <configuration name="Feature: GooleSearch" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Feature__GooleSearch - 2018.08.01 at 13h 52m 39s.xml">
+    <history-entry file="Feature__GooleSearch - 2018.08.06 at 14h 43m 07s.xml">
       <configuration name="Feature: GooleSearch" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Feature__GooleSearch - 2018.08.01 at 16h 36m 52s.xml">
+    <history-entry file="Feature__GooleSearch - 2018.08.06 at 14h 43m 53s.xml">
       <configuration name="Feature: GooleSearch" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Feature__GooleSearch - 2018.08.01 at 16h 44m 52s.xml">
+    <history-entry file="Feature__GooleSearch - 2018.08.06 at 14h 46m 49s.xml">
       <configuration name="Feature: GooleSearch" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Feature__GooleSearch - 2018.08.01 at 16h 57m 51s.xml">
+    <history-entry file="Feature__GooleSearch - 2018.08.06 at 14h 48m 42s.xml">
       <configuration name="Feature: GooleSearch" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Feature__GooleSearch - 2018.08.01 at 16h 58m 31s.xml">
+    <history-entry file="Feature__GooleSearch - 2018.08.06 at 14h 51m 45s.xml">
       <configuration name="Feature: GooleSearch" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Feature__GooleSearch - 2018.08.01 at 17h 00m 32s.xml">
+    <history-entry file="Feature__GooleSearch - 2018.08.06 at 15h 13m 50s.xml">
       <configuration name="Feature: GooleSearch" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39526000" />
+    <option name="totallyTimeSpent" value="53225000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -559,8 +633,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49840257" visible="true" weight="0.1840796" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49840257" visible="true" weight="0.28911" />
       <window_info id="Structure" order="1" sideWeight="0.50159746" side_tool="true" weight="0.25262576" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -569,7 +644,7 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.41245973" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.41245973" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39978564" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -580,7 +655,7 @@
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32867885" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="12" weight="0.32975295" />
-      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.32975295" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -619,24 +694,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/dockerTest/pages/DictionaryPage.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/dockerTest/pages/GooglePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="2" selection-start-line="10" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/dockerTest/steps/serenity/EndUserSteps.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="748">
           <caret line="64" column="40" selection-start-line="64" selection-start-column="40" selection-end-line="64" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/dockerTest/pages/TestSite.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="32" column="41" lean-forward="true" selection-start-line="32" selection-end-line="33" />
         </state>
       </provider>
     </entry>
@@ -682,13 +743,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shell/get_versions.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/shell/pull_images.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -696,17 +750,112 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/GooleSearch.fetaure">
+    <entry file="jar://$MAVEN_REPOSITORY$/net/serenity-bdd/serenity-core/1.9.31/serenity-core-1.9.31.jar!/org/openqa/selenium/browserlaunchers/Proxies.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shell/get_versions.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/dockerTest/pages/GooglePage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/codeborne/phantomjsdriver/1.4.4/phantomjsdriver-1.4.4.jar!/org/openqa/selenium/phantomjs/PhantomJSDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="4" column="32" lean-forward="true" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.13.0/selenium-remote-driver-3.13.0.jar!/org/openqa/selenium/remote/service/DriverService.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-32">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Capabilities/Sasd.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-firefox-driver/3.13.0/selenium-firefox-driver-3.13.0.jar!/org/openqa/selenium/firefox/FirefoxDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="25" column="28" lean-forward="true" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/codeborne/phantomjsdriver/1.4.4/phantomjsdriver-1.4.4.jar!/org/openqa/selenium/phantomjs/PhantomJSDriverService.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///opt/jdk1.8.0_181/src.zip!/java/lang/Override.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="50" column="18" selection-start-line="50" selection-start-column="18" selection-end-line="50" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.13.0/selenium-api-3.13.0.jar!/org/openqa/selenium/WebDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/net/serenity-bdd/serenity-core/1.9.31/serenity-core-1.9.31.jar!/net/thucydides/core/webdriver/DriverSource.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-firefox-driver/3.13.0/selenium-firefox-driver-3.13.0.jar!/org/openqa/selenium/firefox/GeckoDriverService.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="11" column="65" selection-start-line="11" selection-start-column="65" selection-end-line="11" selection-end-column="65" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/serenity.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        <state relative-caret-position="418">
+          <caret line="69" column="6" selection-start-line="69" selection-start-column="6" selection-end-line="69" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Capabilities/FirefoxCapabilities.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="28" column="61" selection-start-line="28" selection-start-column="61" selection-end-line="28" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/dockerTest/pages/TestSite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="32" column="41" selection-start-line="32" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/GooleSearch.fetaure">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
         </state>
       </provider>
     </entry>
