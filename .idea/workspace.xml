@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7bc4fbcb-8d43-49c6-94a3-f3c9dcbc1cbe" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JenkinsfileSelenoidPipeline.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/JenkinsfileSelenoidPipeline.groovy" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -62,7 +61,7 @@
         <counts>
           <entry key="feature" value="4" />
           <entry key="fetaure" value="479" />
-          <entry key="groovy" value="35" />
+          <entry key="groovy" value="37" />
           <entry key="java" value="1141" />
           <entry key="properties" value="536" />
           <entry key="txt" value="124" />
@@ -72,7 +71,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Cucumber" value="483" />
-          <entry key="Groovy" value="35" />
+          <entry key="Groovy" value="37" />
           <entry key="JAVA" value="1141" />
           <entry key="PLAIN_TEXT" value="124" />
           <entry key="Properties" value="536" />
@@ -95,8 +94,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/JenkinsfileSelenoidPipeline.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="38" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
+            <state relative-caret-position="68">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -136,6 +135,7 @@
       <find>Service</find>
       <find>createDefaultService</find>
       <find>browsers_conf_folder</find>
+      <find>shell</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -357,7 +357,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533560908882" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533561099126" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../shopfinder_tests" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -455,7 +455,7 @@
       <workItem from="1533191332335" duration="9678000" />
       <workItem from="1533283099360" duration="657000" />
       <workItem from="1533538312195" duration="599000" />
-      <workItem from="1533554175997" duration="4334000" />
+      <workItem from="1533554175997" duration="4603000" />
     </task>
     <task id="LOCAL-00001" summary="Changed pom">
       <created>1532685273580</created>
@@ -618,7 +618,28 @@
       <option name="project" value="LOCAL" />
       <updated>1533560601356</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Small changes">
+      <created>1533560710068</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1533560710068</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Small changes">
+      <created>1533560880948</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1533560880948</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Small changes">
+      <created>1533560916971</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1533560916971</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -654,7 +675,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54844000" />
+    <option name="totallyTimeSpent" value="55113000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -888,8 +909,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/JenkinsfileSelenoidPipeline.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="38" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
